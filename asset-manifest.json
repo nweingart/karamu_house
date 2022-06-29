@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/karamu_house/static/css/main.073c9b0a.css",
-    "main.js": "/karamu_house/static/js/main.3f2ffd34.js",
+    "main.js": "/karamu_house/static/js/main.2cf29e05.js",
     "static/js/787.2415299d.chunk.js": "/karamu_house/static/js/787.2415299d.chunk.js",
     "static/media/logo.svg": "/karamu_house/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/karamu_house/index.html",
     "main.073c9b0a.css.map": "/karamu_house/static/css/main.073c9b0a.css.map",
-    "main.3f2ffd34.js.map": "/karamu_house/static/js/main.3f2ffd34.js.map",
+    "main.2cf29e05.js.map": "/karamu_house/static/js/main.2cf29e05.js.map",
     "787.2415299d.chunk.js.map": "/karamu_house/static/js/787.2415299d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3f2ffd34.js"
+    "static/js/main.2cf29e05.js"
   ]
 }
